@@ -2,21 +2,21 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: '服务器状态监控',
 
   // 站点链接
-  SiteUrl: '/',
+  SiteUrl: 'http://dunxz.com',
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名
   // 因官网 API 时不时的会 CROS 报错，可填自定义反代域名
   // 详见说明
-  ApiDomain: 'uptime-status.qikaile.workers.dev',
+  ApiDomain: 'dunxz.pages.dev',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'ur1078385-b9802a0868414b8a975d5038',
+    'ur1628409-416237d0dd1ba7c797e28662',
     /*
     'm786322663-402cd609baf66832d847ef63',
     'm786322674-0773b2c046e85a9cd3344aa8',
@@ -43,11 +43,11 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://tjys.now.sh/'
+      url: 'https://dunxz.com/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      url: 'https://github.com/390u/uptime-status'
     }
   ]
 };
