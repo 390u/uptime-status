@@ -5,7 +5,7 @@ window.Config = {
   SiteName: '服务器状态监控',
 
   // 站点链接
-  SiteUrl: 'http://dunxz.com',
+  SiteUrl: 'http://paolu.cc',
 
   // UptimeRobot Api 域名 api.uptimerobot.com
   // 只需填写域名部分，默认为官网域名
@@ -31,7 +31,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://dunxz.com/'
+      url: 'https://paolu.cc/'
     },
     {
       text: 'GitHub',
